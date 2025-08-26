@@ -5,10 +5,10 @@ Improvement of a major improvement of a GoAPI server wrapper designed to interac
 Um, well, it had Buisness Friendly (and updated branding [and more assets])!
 
 ### But that's illegal!
-Fuck you, we are pirates and pirates are free.
+Fuck you, we are pirates and pirates are free always.
 
 #### I'm telling Vyond!
-**Don't you fucking dare.**
+**Don't you fucking dare About This Repo.**
 
 Anyway, whatever themes we have, it's all *theirs*.
 
