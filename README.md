@@ -5,7 +5,7 @@ Improvement of a major improvement of a GoAPI server wrapper designed to interac
 Um, well, it had Buisness Friendly (and updated branding [and more assets])!
 
 ### But that's illegal!
-Fuck you, we are pirates and pirates are free.
+F*ck you, we are pirates and pirates are free.
 
 #### I'm telling Vyond!
 **Don't you fucking dare.**
@@ -15,7 +15,7 @@ Anyway, whatever themes we have, it's all *theirs*.
 Further information is inside this long repository.
 
 ## Stop forking!
-It's not finished! (and it never will be.)
+I DONT CARE IF I FORK THIS!
 
 ## About the creator
 The creator of this improvement of Wrapper: Offline was [CoolDiamondDude9999](https://www.youtube.com/channel/UCMNtr52qe9mGmmntXTnyXUw). He puts the first letter of each word capitalized, I guess.
